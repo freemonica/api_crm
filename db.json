@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Monica New Roud",
+      "empresa": "ExpressApp",
+      "email": "correo@gmail.com",
+      "telefono": "856",
+      "notas": "Nuevo trabajo ",
+      "id": 1
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Diseñados ",
+      "email": "d@gmail.com",
+      "telefono": "8789",
+      "notas": "Empresa de gatos ",
+      "id": 6
+    },
+    {
+      "nombre": "Edgar González",
+      "empresa": "EquimentX",
+      "email": "correo@gmail.com",
+      "telefono": "78642215",
+      "notas": "Edgar necesita un nuevo servicio ",
+      "id": 8
+    }
+  ]
+}
