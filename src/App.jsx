@@ -10,10 +10,13 @@ import VerCliente from './paginas/VerCliente'
 
 function App() {
   
+    console.log(import.meta.env)
 
   return (
     <BrowserRouter>
       <Routes>
+
+     
 
         <Route path="/clientes" element={<Layout />}>
             <Route index element={<Inicio />} />
